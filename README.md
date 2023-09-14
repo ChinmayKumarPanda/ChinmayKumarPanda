@@ -1,4 +1,4 @@
-# ChinmayKumarPanda-
+# ChinmayKumarPanda
 <h1 align="center">Hi 👋, I'm Chinmay Kumar Panda</h1>
 <h3 align="center">A passionate UI AND UX developer from India</h3>
 
