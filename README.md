@@ -1,6 +1,6 @@
 # ChinmayKumarPanda
 <h1 align="center">Hi 👋, I'm Chinmay Kumar Panda</h1>
-<h3 align="center">A passionate UI AND UX developer from India</h3>
+<h3 align="center">AWS Infra  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaykumarpanda" /> </p>
 
@@ -10,15 +10,13 @@
 
 - 🔭 I’m currently working on **UI Project**
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Dwvops**
 
-- 👯 I’m looking to collaborate on **UI and UX**
-
-- 🤝 I’m looking for help with **Design**
+- 👯 I’m looking to collaborate on **Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChinmayKumarPanda](https://github.com/ChinmayKumarPanda)
 
-- 💬 Ask me about **Design**
+- 💬 Ask me about **AWS**
 
 - 📫 How to reach me **https://www.linkedin.com/in/chinmay-kumar-panda-01256122b/**
 
