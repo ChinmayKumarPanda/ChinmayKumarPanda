@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Terraform project**
 
-- 🌱 I’m currently learning **Dwvops**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **Cloud**
 
