@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/chinu061" target="blank"><img src="https://img.shields.io/twitter/follow/chinu061?logo=twitter&style=for-the-badge" alt="chinu061" /></a> </p>
 
-- 🔭 I’m currently working on **UI Project**
+- 🔭 I’m currently working on **Terraform project**
 
 - 🌱 I’m currently learning **Dwvops**
 
