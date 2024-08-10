@@ -1,57 +1,128 @@
-<!-- Header with name and short description -->
-<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername">Your Name</a> 👋</h1>
-<h3 align="center">🚀 DevOps Enthusiast | ☁️ AWS Cloud Engineer | 🛠️ Automation Advocate</h3>
+<h1 align="center" style="background: linear-gradient(90deg, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent; animation: gradient 3s ease infinite;">
+  Hi 👋, I'm Chinmay Kumar Panda
+</h1>
+<h3 align="center">AWS & DevOps Enthusiast from India</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DevOps-blue?style=for-the-badge&logo=devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CI/CD-green?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+<style>
+  @keyframes gradient {
+    0% {background-position: 0% 50%;}
+    50% {background-position: 100% 50%;}
+    100% {background-position: 0% 50%;}
+  }
+</style>
+<style>
+  a img:hover {
+    transform: scale(1.2);
+    transition: all 0.3s ease-in-out;
+  }
+</style>
+<div id="particles-js"></div>
+<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+<script>
+  particlesJS.load('particles-js', 'https://vincentgarreau.com/particles.js/assets/particles.json', function() {
+    console.log('callback - particles.js config loaded');
+  });
+</script>
 
-<!-- 3D Icons Section -->
-<p align="center">
-  <img src="https://img.icons8.com/clouds/100/000000/aws.png" alt="AWS" />
-  <img src="https://img.icons8.com/clouds/100/000000/devops.png" alt="DevOps" />
-  <img src="https://img.icons8.com/clouds/100/000000/docker.png" alt="Docker" />
-  <img src="https://img.icons8.com/clouds/100/000000/github.png" alt="GitHub" />
-</p>
+<style>
+  #particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+</style>
+<style>
+  body {
+    scroll-behavior: smooth;
+  }
+  
+  .fade-in {
+    opacity: 0;
+    animation: fadeIn 2s ease-in forwards;
+  }
+  
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+</style>
 
-<!-- About Me Section -->
-## 👨‍💻 About Me
+<div class="fade-in">
+  <!-- Your content here -->
+</div>
+<style>
+  body {
+    scroll-behavior: smooth;
+  }
+  
+  .fade-in {
+    opacity: 0;
+    animation: fadeIn 2s ease-in forwards;
+  }
+  
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+</style>
 
-I'm a passionate DevOps engineer with hands-on experience in AWS cloud services, automation, and infrastructure as code. My journey revolves around:
+<div class="fade-in">
+  <!-- Your content here -->
+</div>
+<div id="quote" align="center"></div>
 
-- 🌩️ **AWS**: Architecting scalable and secure cloud solutions.
-- 🛠️ **DevOps**: Implementing CI/CD pipelines and containerization.
-- ⚙️ **Automation**: Streamlining operations with tools like Terraform, Ansible, and Jenkins.
+<script>
+  const quotes = [
+    "Believe you can and you're halfway there.",
+    "The only way to do great work is to love what you do.",
+    "Success is not the key to happiness. Happiness is the key to success."
+  ];
 
-## 🔧 Technologies & Tools
+  let i = 0;
+  function changeQuote() {
+    document.getElementById("quote").innerText = quotes[i];
+    i = (i + 1) % quotes.length;
+  }
+  
+  setInterval(changeQuote, 5000);
+  changeQuote();
+</script>
 
-<p align="center">
-  <img src="https://img.icons8.com/3d-fluency/50/000000/terraform.png" alt="Terraform" />
-  <img src="https://img.icons8.com/3d-fluency/50/000000/ansible.png" alt="Ansible" />
-  <img src="https://img.icons8.com/3d-fluency/50/000000/kubernetes.png" alt="Kubernetes" />
-  <img src="https://img.icons8.com/3d-fluency/50/000000/git.png" alt="Git" />
-</p>
+<style>
+  #quote {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #ff7e5f;
+    animation: fade 3s ease-in-out infinite;
+  }
+  
+  @keyframes fade {
+    0%, 100% { opacity: 0; }
+    50% { opacity: 1; }
+  }
+</style>
+<svg viewBox="0 0 1440 320">
+  <path fill="#ff7e5f" fill-opacity="1" d="M0,160L60,165.3C120,171,240,181,360,202.7C480,224,600,256,720,266.7C840,277,960,267,1080,240C1200,213,1320,171,1380,149.3L1440,128L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
+</svg>
+<svg viewBox="0 0 1440 320">
+  <path fill="#ff7e5f" fill-opacity="1" d="M0,160L60,165.3C120,171,240,181,360,202.7C480,224,600,256,720,266.7C840,277,960,267,1080,240C1200,213,1320,171,1380,149.3L1440,128L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
+</svg>
+<button onclick="toggleDarkMode()">Toggle Dark Mode</button>
 
-## 📊 GitHub Stats
+<script>
+  function toggleDarkMode() {
+    document.body.classList.toggle("dark-mode");
+  }
+</script>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🖥️ Projects
-
-- **[Project 1](https://github.com/yourusername/project1)**: Description of project 1 with key technologies.
-- **[Project 2](https://github.com/yourusername/project2)**: Description of project 2 with key technologies.
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/3d-fluency/50/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/3d-fluency/50/000000/twitter.png" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/3d-fluency/50/000000/email.png" alt="Email" /></a>
-</p>
+<style>
+  .dark-mode {
+    background-color: #1a1a1a;
+    color: white;
+  }
+</style>
