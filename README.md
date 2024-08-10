@@ -1,77 +1,75 @@
 <h1 align="center">Hi 👋, I'm Chinmay Kumar Panda</h1>
-<h3 align="center">AWS & DevOps</h3>
+<h3 align="center">AWS & DevOps Enthusiast from India</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://twitter.com/chinu061" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/chinu061?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=0e75b6&style=flat" alt="chinmaykumarpanda" />
-  <img src="https://img.shields.io/twitter/follow/chinu061?logo=twitter&style=for-the-badge" alt="chinu061" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chinmaykumarpanda&theme=dracula&no-frame=true&row=1&column=7" alt="Trophy" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmaykumarpanda&theme=onedark&row=1&column=7" alt="chinmaykumarpanda" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaykumarpanda&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+</div>
 
-<h3 align="center">🔭 Currently Working On</h3>
-<p align="center">Terraform project</p>
+---
 
-<h3 align="center">🌱 Currently Learning</h3>
-<p align="center">DevOps and AWS</p>
+### 🚀 About Me
 
-<h3 align="center">👯 Looking to Collaborate On</h3>
-<p align="center">Cloud and Infrastructure Automation</p>
+- 🔭 I’m currently working on **Terraform project**
 
-<h3 align="center">💬 Ask Me About</h3>
-<p align="center">AWS and DevOps</p>
+- 🌱 I’m currently learning **DevOps and AWS**
 
-<h3 align="center">📫 How to Reach Me</h3>
-<p align="center"><a href="https://www.linkedin.com/in/chinmay-kumar-panda-01256122b/">LinkedIn Profile</a></p>
+- 👯 I’m looking to collaborate on **Cloud and Infrastructure Automation**
 
-<h3 align="center">💻 My Projects</h3>
-<p align="center"><a href="https://github.com/ChinmayKumarPanda">GitHub Repositories</a></p>
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/ChinmayKumarPanda)
 
-<h3 align="center">📱 Connect with Me</h3>
-<p align="center">
+- 💬 Ask me about **AWS and DevOps**
+
+- 📫 How to reach me: [LinkedIn Profile](https://www.linkedin.com/in/chinmay-kumar-panda-01256122b/)
+
+---
+
+### 🌐 Connect with Me
+<div align="center">
   <a href="https://twitter.com/chinu061" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinu061" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chinu061" height="40" width="50" />
   </a>
   <a href="https://linkedin.com/in/chinmay-kumar-panda" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmay kumar panda" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="50" />
   </a>
-</p>
+</div>
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="terraform" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-</p>
+---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmaykumarpanda&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="chinmaykumarpanda" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&locale=en&theme=vision-friendly-dark" alt="chinmaykumarpanda" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=vision-friendly-dark" alt="chinmaykumarpanda" />
-</p>
+### 🛠️ Languages and Tools
+<div align="center">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> 
+  </a> 
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
+  </a> 
+</div>
 
