@@ -1,30 +1,57 @@
-# 👋 Hello, I'm [Your Name]
+<!-- Header with name and short description -->
+<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername">Your Name</a> 👋</h1>
+<h3 align="center">🚀 DevOps Enthusiast | ☁️ AWS Cloud Engineer | 🛠️ Automation Advocate</h3>
 
-![3D AWS Icon](https://link-to-your-3d-icon.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DevOps-blue?style=for-the-badge&logo=devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI/CD-green?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-## 🌟 About Me
+<!-- 3D Icons Section -->
+<p align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/aws.png" alt="AWS" />
+  <img src="https://img.icons8.com/clouds/100/000000/devops.png" alt="DevOps" />
+  <img src="https://img.icons8.com/clouds/100/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/clouds/100/000000/github.png" alt="GitHub" />
+</p>
 
-I'm a passionate **DevOps Engineer** and **Cloud Architect** with a focus on **AWS**. My goal is to automate and optimize everything!
+<!-- About Me Section -->
+## 👨‍💻 About Me
 
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
-- 💬 Ask me about: AWS, Terraform, Docker, CI/CD
+I'm a passionate DevOps engineer with hands-on experience in AWS cloud services, automation, and infrastructure as code. My journey revolves around:
 
-## 🚀 Skills
+- 🌩️ **AWS**: Architecting scalable and secure cloud solutions.
+- 🛠️ **DevOps**: Implementing CI/CD pipelines and containerization.
+- ⚙️ **Automation**: Streamlining operations with tools like Terraform, Ansible, and Jenkins.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🔧 Technologies & Tools
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://img.icons8.com/3d-fluency/50/000000/terraform.png" alt="Terraform" />
+  <img src="https://img.icons8.com/3d-fluency/50/000000/ansible.png" alt="Ansible" />
+  <img src="https://img.icons8.com/3d-fluency/50/000000/kubernetes.png" alt="Kubernetes" />
+  <img src="https://img.icons8.com/3d-fluency/50/000000/git.png" alt="Git" />
+</p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## 📊 GitHub Stats
 
-## 🔗 Connect with Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+## 🖥️ Projects
+
+- **[Project 1](https://github.com/yourusername/project1)**: Description of project 1 with key technologies.
+- **[Project 2](https://github.com/yourusername/project2)**: Description of project 2 with key technologies.
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.icons8.com/3d-fluency/50/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.icons8.com/3d-fluency/50/000000/twitter.png" alt="Twitter" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.icons8.com/3d-fluency/50/000000/email.png" alt="Email" /></a>
+</p>
