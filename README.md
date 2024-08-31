@@ -2,25 +2,25 @@
 <h3 align="center">AWS & DevOps Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
   <a href="https://twitter.com/chinu061" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/chinu061?logo=twitter&style=social" alt="Twitter Follow" />
+    <img src="https://img.shields.io/twitter/follow/chinu061?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaykumarpanda&theme=vue" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=highcontrast" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&locale=en&theme=vue-dark" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=vue-dark" alt="GitHub Streak" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaykumarpanda&theme=highcontrast" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmaykumarpanda&theme=vue" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmaykumarpanda&theme=highcontrast" alt="Top Languages" />
 </p>
 
 ---
@@ -77,4 +77,3 @@
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/> 
   </a> 
 </p>
-
