@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Chinmay Kumar Panda</h1>
-<h3 align="center">AWS & DevOps Enthusiast from India</h3>
+<h1 align="center" style="font-weight: bold; text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+  Hi 👋, I'm Chinmay Kumar Panda
+</h1>
+<h3 align="center" style="text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  AWS & DevOps Enthusiast from India
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
@@ -11,16 +15,16 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=highcontrast" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&locale=en&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=radical" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaykumarpanda&theme=highcontrast" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaykumarpanda&theme=radical" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmaykumarpanda&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmaykumarpanda&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -44,10 +48,10 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://twitter.com/chinu061" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/chinmay-kumar-panda" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
@@ -56,24 +60,24 @@
 ### 🛠️ Languages and Tools
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50" height="50"/> 
+    <img src="https://img.icons8.com/bubbles/100/000000/amazon-web-services.png" alt="AWS" width="50" height="50" style="filter: drop-shadow(0px 0px 10px #00000080);" /> 
   </a> 
   <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="50" height="50"/> 
+    <img src="https://img.icons8.com/bubbles/100/000000/terraform.png" alt="Terraform" width="50" height="50" style="filter: drop-shadow(0px 0px 10px #00000080);" /> 
   </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/> 
+    <img src="https://img.icons8.com/bubbles/100/000000/docker.png" alt="Docker" width="50" height="50" style="filter: drop-shadow(0px 0px 10px #00000080);" /> 
   </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="50" height="50"/> 
+    <img src="https://img.icons8.com/bubbles/100/000000/kubernetes.png" alt="Kubernetes" width="50" height="50" style="filter: drop-shadow(0px 0px 10px #00000080);" /> 
   </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="50" height="50"/> 
+    <img src="https://img.icons8.com/bubbles/100/000000/jenkins.png" alt="Jenkins" width="50" height="50" style="filter: drop-shadow(0px 0px 10px #00000080);" /> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/> 
+    <img src="https://img.icons8.com/bubbles/100/000000/git.png" alt="Git" width="50" height="50" style="filter: drop-shadow(0px 0px 10px #00000080);" /> 
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/> 
+    <img src="https://img.icons8.com/bubbles/100/000000/linux.png" alt="Linux" width="50" height="50" style="filter: drop-shadow(0px 0px 10px #00000080);" /> 
   </a> 
 </p>
