@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
   <a href="https://twitter.com/chinu061" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/chinu061?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -43,8 +42,6 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/chinu061" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://linkedin.com/in/chinmay-kumar-panda" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
