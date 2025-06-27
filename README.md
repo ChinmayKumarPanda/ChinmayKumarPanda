@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chinmay </h1>
+<h1 align="center">Hiii 👋, I'm Chinmay </h1>
 <h3 align="center">AWS & DevOps Enthusiast from India</h3>
 
 <p align="center">
