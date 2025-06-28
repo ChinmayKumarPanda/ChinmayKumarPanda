@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinmay</h1>
-<h3 align="center">☁️ Cloud & DevOps Engineer | AWS Enthusiast | Automation Specialist</h3>
+<h3 align="center">☁️ Cloud & DevOps | AWS Enthusiast | Automation </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-- 🔧 Cloud & DevOps Engineer | Passionate about **Automation** and **Scalability**
+- 🔧 Cloud & DevOps| Passionate about **Automation** and **Scalability**
 - ☁️ Skilled in **AWS, Terraform, Docker, Jenkins, Git, and Linux**
 - 🧩 Practicing **Infrastructure as Code** and **CI/CD Pipelines**
 - 📦 Building projects using **S3, EC2, ALB, RDS, and CloudFormation**
