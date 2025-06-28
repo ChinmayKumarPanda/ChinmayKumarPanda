@@ -33,24 +33,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=highcontrast" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaykumarpanda&theme=highcontrast" alt="Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmaykumarpanda&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&theme=highcontrast&count_private=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chinmaykumarpanda&theme=highcontrast" height="180em" />
 </p>
 
 ---
 
-### 📈 Statistics and Activity Graph
+### 📈 Contribution & Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmaykumarpanda&theme=high-contrast" alt="Contribution Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaykumarpanda&theme=highcontrast" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chinmaykumarpanda&theme=high-contrast" />
 </p>
 
 ---
