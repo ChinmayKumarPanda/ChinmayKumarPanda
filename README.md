@@ -1,76 +1,58 @@
-<h1 align="center">Hiii 👋, I'm Chinmay </h1>
-<h3 align="center">AWS & DevOps Enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Chinmay</h1>
+<h3 align="center">🚀 AWS & DevOps Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chinmaykumarpanda&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
-  <a href="https://twitter.com/chinu061" target="_blank">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&locale=en&theme=highcontrast" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=highcontrast" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaykumarpanda&theme=highcontrast" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmaykumarpanda&theme=highcontrast" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Terraform project**
-
-- 🌱 I’m currently learning **DevOps and AWS**
-
-- 👯 I’m looking to collaborate on **Cloud and Infrastructure Automation**
-
-- 👨‍💻 Check out my projects at [My GitHub Repositories](https://github.com/ChinmayKumarPanda)
-
-- 💬 Ask me about **AWS and DevOps**
-
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/chinmay-kumar-panda-01256122b/)
+- 🔭 Currently working on a **Terraform project**
+- 🌱 Learning **AWS & DevOps** tools and practices
+- 🤝 Open to collaboration in **Cloud and Infrastructure Automation**
+- 💻 Explore my work on [GitHub](https://github.com/ChinmayKumarPanda)
+- 💬 Ask me about **AWS, EC2, S3, Terraform, CI/CD**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/chinmay-kumar-panda-01256122b/)
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Languages & Tools
+
 <p align="center">
-  </a>
-  <a href="https://linkedin.com/in/chinmay-kumar-panda" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS" />
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" title="Terraform" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+### 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="50" height="50"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="50" height="50"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/> 
-  </a> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=highcontrast" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chinmaykumarpanda&theme=highcontrast" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chinmaykumarpanda&theme=highcontrast" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/chinmay-kumar-panda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:chinmaykumarpanda6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
