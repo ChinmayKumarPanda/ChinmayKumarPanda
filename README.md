@@ -43,11 +43,12 @@
 
 ---
 
-### 🔥 GitHub Activity (Animated)
+### 🔥 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmaykumarpanda&theme=high-contrast&area=true&hide_border=true&custom_title=🔥%20My%20DevOps%20Journey%20in%20Commits%20and%20Pull%20Requests" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmaykumarpanda&theme=high-contrast&area=true&color=00ff99&line=00ff99&point=ffffff&hide_border=true&custom_title=🔥%20My%20DevOps%20Journey%20in%20Commits%20and%20Pull%20Requests" />
 </p>
+
 
 ---
 
