@@ -9,8 +9,8 @@
 
 ### 💡 About Me
 
-- 🔧 Cloud & DevOps| Passionate about **Automation** and **Scalability**
-- ☁️ Skilled in **AWS, Terraform, Docker, Jenkins, Git, Github and Linux**
+- 🔧 Cloud & DevOps | Passionate about **automation** and **scalability**
+- ☁️ Skilled in **AWS, Terraform, Docker, Jenkins, Git, GitHub, and Linux**
 - 🧩 Practicing **Infrastructure as Code** and **CI/CD Pipelines**
 - 📦 Building projects using **S3, EC2, ALB, RDS, and CloudFormation**
 - 🌱 Currently learning **Kubernetes & Observability (Grafana, Prometheus)**
@@ -22,14 +22,14 @@
 ### 🧰 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" />
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" title="Terraform" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes" />
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" title="Jenkins" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" />
-  <img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" />
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" title="Terraform"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&theme=highcontrast&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chinmaykumarpanda&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmaykumarpanda&theme=highcontrast" height="180em" />
 </p>
 
@@ -49,8 +49,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmaykumarpanda&theme=high-contrast&area=true&color=00ff99&line=00ff99&point=ffffff&hide_border=true&custom_title=🔥%20Chinmay's%20DevOps%20Journey%20in%20Commits%20and%20Pull%20Requests" />
 </p>
 
-
-
 ---
 
 ### 🌐 Connect With Me
@@ -61,5 +59,8 @@
   </a>
   <a href="mailto:chinmaykumarpanda6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ChinmayKumarPanda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
