@@ -10,7 +10,7 @@
 ### 💡 About Me
 
 - 🔧 Cloud & DevOps | Passionate about **automation** and **scalability**
-- ☁️ Skilled in **AWS, Terraform, Docker, Jenkins, Git, GitHub, and Linux**
+- ☁️ Skilled in **AWS, Terraform, Docker, Jenkins, Open tofu, Git, GitHub, and Linux**
 - 🧩 Practicing **Infrastructure as Code** and **CI/CD Pipelines**
 - 📦 Building projects using **S3, EC2, ALB, RDS, and CloudFormation**
 - 🌱 Currently learning **Kubernetes & Observability (Grafana, Prometheus)**
