@@ -12,7 +12,7 @@
 - 🔧 Cloud & DevOps | Passionate about **automation** and **scalability**
 - ☁️ Skilled in **AWS, Terraform, Docker, Jenkins, Open tofu, Git, GitHub, and Linux**
 - 🧩 Practicing **Infrastructure as Code** and **CI/CD Pipelines**
-- 📦 Building projects using **S3, EC2, ALB, RDS, and CloudFormation**
+- 📦 Building projects using **S3, EC2, ALB, RDS, and Cloud front**
 - 🌱 Currently learning **Kubernetes & Observability (Grafana, Prometheus)**
 - 📂 Check out my work here: [GitHub Projects](https://github.com/ChinmayKumarPanda)
 - 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/chinmay-kumar-panda-01256122b/)
