@@ -10,10 +10,10 @@
 ### 💡 About Me
 
 - 🔧 Cloud & DevOps | Passionate about **automation** and **scalability**
-- ☁️ Skilled in **AWS, Terraform, Docker, Jenkins, Open tofu, Git, GitHub, and Linux**
+- ☁️ Skilled in **AWS, Terraform, Docker, Jenkins, Open tofu, Git, GitHub, Gitlab and Linux**
 - 🧩 Practicing **Infrastructure as Code** and **CI/CD Pipelines**
 - 📦 Building projects using **S3, EC2, ALB, RDS, and Cloud front**
-- 🌱 Currently learning **Kubernetes & Observability (Grafana, Prometheus)**
+- 🌱 Currently learning **Kubernetes ,Docker , Openshift & Observability (Grafana, Prometheus)**
 - 📂 Check out my work here: [GitHub Projects](https://github.com/ChinmayKumarPanda)
 - 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/chinmay-kumar-panda-01256122b/)
 
@@ -21,17 +21,8 @@
 
 ### 🧰 Tools & Technologies
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" title="Terraform"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
-  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-</p>
-
+🧰 Tools & Technologies
+<p align="center"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" title="AWS"/> <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" title="Terraform"/> <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker"/> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes"/> <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins"/> <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/> <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" title="GitLab"/> <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="48" height="48" alt="Prometheus" title="Prometheus"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="48" height="48" alt="Grafana" title="Grafana"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48" height="48" alt="ArgoCD" title="ArgoCD"/> <img src="https://avatars.githubusercontent.com/u/147495755?s=48&v=4" width="48" height="48" alt="OpenTofu" title="OpenTofu"/> </p>
 ---
 
 ### 📊 GitHub Statistics
